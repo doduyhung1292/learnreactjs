@@ -1,0 +1,12 @@
+.TodoItem {
+	font-family: Arial;
+	font-weight: 240;
+	font-size: 25px;
+    color: brown;
+}
+
+.TodoItem-complete {
+	opacity: 0.3;
+	text-decoration: line-through;
+
+}
